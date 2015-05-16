@@ -145,7 +145,7 @@ public class TwitterService {
     }
 
     public void invokeLambda(String str) {
-        AWSCredentials credentials = new BasicAWSCredentials("AKIAJCDVFGC425YXTY5Q","dGT7/DDUXzNpyaiC+fS6re3747W1C16/CZK3iC3O");
+        AWSCredentials credentials = new BasicAWSCredentials("","dGT7/+fS6re3747W1C16/CZK3iC3O");
         AWSLambdaClient alc=new AWSLambdaClient(credentials);
 
         InvokeRequest invokeRequest = new  InvokeRequest();
