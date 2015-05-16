@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: nz.net.ultraq.web.thymeleaf:thymeleaf-layout-dialect:1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/nz.net.ultraq.web.thymeleaf/thymeleaf-layout-dialect/1.0.3/969b26e30c21b78cbd0d5f03b10657630cfd49a8/thymeleaf-layout-dialect-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/nz.net.ultraq.web.thymeleaf/thymeleaf-layout-dialect/1.0.3/29910de54a6694b37a7d90c816cb4f562a4fba3a/thymeleaf-layout-dialect-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
